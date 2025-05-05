@@ -1,9 +1,10 @@
 
 import os
+from dotenv import load_dotenv
+load_dotenv()
 import logging
 import sqlite3
 import asyncio
-
 from aiogram import Bot, Dispatcher, types
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.fsm.context import FSMContext

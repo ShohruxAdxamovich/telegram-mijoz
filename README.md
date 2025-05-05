@@ -17,7 +17,7 @@ This is a Telegram bot built with Python and aiogram.
    ```
 3. Run the bot:
    ```bash
-   python sozlangan_bot.py
+   python telegram_mijozbot.py 
    ```
 
 ## Deployment
@@ -26,3 +26,4 @@ Recommended: [Railway](https://railway.app) or [Render](https://render.com) for 
 
 ---
 Developed by you 🚀
+"# sotuv_menejer" 
